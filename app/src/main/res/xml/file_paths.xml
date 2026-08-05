@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Notes exported for sharing are written here, then handed to other
+         apps (Bluetooth, Gmail, Nearby Share, etc.) as a real .txt file via
+         a content:// URI, never a raw file:// path. -->
+    <cache-path name="shared_notes" path="shared_notes/" />
+</paths>
